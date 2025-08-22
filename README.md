@@ -31,11 +31,11 @@ config.json:
 Formato: JSON en inglés.
 Contenido: Contiene instrucciones para el LLM:
 
-INSTRUCTIONS: Guía para responder prompts con resúmenes en lenguaje natural.
-VISUALIZATION_TYPES_JSON: Define tipos de visualización (por ejemplo, bar_chart, table).
-INSTRUCTIONS_DB_ANALYSIS_AND_SQL: Instrucciones para analizar el esquema y sugerir métricas.
-INSTRUCTIONS_SQL_METRIC_DATA_JSON_ONLY: Instrucciones para ejecutar consultas SQL y devolver datos en JSON.
-INSTRUCTIONS_RENDER_DASHBOARD_FROM_DATA: Instrucciones para generar HTML con Chart.js y Tailwind CSS, usando datos reales.
+- INSTRUCTIONS: Guía para responder prompts con resúmenes en lenguaje natural.
+- VISUALIZATION_TYPES_JSON: Define tipos de visualización (por ejemplo, bar_chart, table).
+- INSTRUCTIONS_DB_ANALYSIS_AND_SQL: Instrucciones para analizar el esquema y sugerir métricas.
+- INSTRUCTIONS_SQL_METRIC_DATA_JSON_ONLY: Instrucciones para ejecutar consultas SQL y devolver datos en JSON.
+- INSTRUCTIONS_RENDER_DASHBOARD_FROM_DATA: Instrucciones para generar HTML con Chart.js y Tailwind CSS, usando datos reales.
 
 
 api.py:
