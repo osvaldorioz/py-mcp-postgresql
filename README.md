@@ -1,4 +1,5 @@
-<img width="1375" height="853" alt="imagen" src="https://github.com/user-attachments/assets/d5b72b2f-61d1-4ddc-8aad-155aecf3fd4d" />
+
+<img width="1330" height="836" alt="imagen" src="https://github.com/user-attachments/assets/7fe05226-8759-4a27-8962-4ac168d9f999" />
 
 
 El programa MCP-SQL es una aplicación diseñada para analizar una base de datos relacional (PostgreSQL) y generar dashboards interactivos basados en métricas extraídas de las tablas de una base de datos postgreSQL. Utiliza una combinación de C++ (para interactuar con la base de datos y procesar datos), Python (para la interfaz de usuario y la API), y un modelo de lenguaje (LLM) para generar consultas SQL y dashboards HTML estilizados. A continuación, se detalla su funcionamiento, estructura, y propósito, manteniendo los mensajes de error en español y el código/configuración en inglés, como se ha establecido.
