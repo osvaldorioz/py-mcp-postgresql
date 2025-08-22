@@ -70,7 +70,7 @@ Base de Datos:
 Motor: PostgreSQL
 Tablas usadas en pruebas:
 
-sales: Columnas id, region, sales_amount, sale_date, product_id (FK a products.id).
-customers: Columnas id, name, email, sale_id (FK a sales.id).
-products: Columnas id, name, price, category.
+- sales: Columnas id, region, sales_amount, sale_date, product_id (FK a products.id).
+- customers: Columnas id, name, email, sale_id (FK a sales.id).
+- products: Columnas id, name, price, category.
 
